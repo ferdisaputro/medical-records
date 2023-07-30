@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+   .dropdown-items {
+      overflow: hidden;
+   }
+}
